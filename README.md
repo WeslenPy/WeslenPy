@@ -1,7 +1,7 @@
 ## Hello eu sou a Weslen, desenvolvedor de software fullstack!
 
 <div style="display: inline_block">
-  <img height=200 align="center" src="https://my-stats-personal.vercel.app/api?username=weslenpy&show_icons=true&theme=radical">
+  <img height=200 align="center" src="https://my-stats-personal.vercel.app/api?username=weslenpy&show_icons=true&theme=radical&include_all_commits=true">
   <img height=200 align="center" src="https://my-stats-personal.vercel.app/api/top-langs?username=weslenpy&layout=compact&theme=radical">
  
 </div>
