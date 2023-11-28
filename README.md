@@ -1,4 +1,4 @@
-## Hello eu sou a Weslen, desenvolvedor de software fullstack!
+## Hello eu sou Weslen, desenvolvedor de software fullstack!
 
 <div style="display: inline_block">
   <img height=200 width=440  align="center" src="https://my-stats-personal.vercel.app/api?username=weslenpy&show_icons=true&theme=radical&include_all_commits=true">
