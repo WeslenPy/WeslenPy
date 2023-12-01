@@ -14,6 +14,7 @@
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask&logoColor=blue" />
    <img alt="Node.js" src="https://img.shields.io/node/v/node.svg?style=flat-square&logo=nodedotjs&logoColor=green&label=Node.js" />
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-grey?style=flat-square&logo=selenium&logoColor=white" />
+  <br>
    <img alt="React" src="https://img.shields.io/node/v/react.svg?&logo=react&logoColor=green&label=React" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-1a73e8?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1a73e8?style=flat-square&logo=css3&logoColor=white" />
