@@ -35,7 +35,8 @@
 <h3>Tools:</h3>
 
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-1a73e8?style=flat-square&logo=docker&logoColor=white&color=F05032" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-1a73e8?style=flat-square&logo=docker&logoColor=white&color=2496ED" />
+  <img alt="Docker-Compose" src="https://img.shields.io/badge/-DockerCompose-1a73e8?style=flat-square&logo=docker&logoColor=white&color=2496ED" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-1a73e8?style=flat-square&logo=git&logoColor=white&color=F05032" />
     <img alt="Git" src="https://img.shields.io/badge/-GitHub-1a73e8?style=flat-square&logo=github&logoColor=white&color=181717" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-1a73e8?style=flat-square&logo=github-actions&logoColor=white&color=2088FF" />
