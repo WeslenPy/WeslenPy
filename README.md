@@ -27,7 +27,8 @@
 
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-v8-brightgreen" />
-  <img alt="Postgres" src=https://img.shields.io/badge/postgres-v16-brightgreen" />
+  <img alt="Postgres" src=https://img.shields.io/badge/postgresql-v16-brightgreen" />
+  <img alt="Postgres" src=https://img.shields.io/badge/nosql" />
 </p>
 
 <h3>Tools:</h3>
