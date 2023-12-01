@@ -6,14 +6,28 @@
  
 </div>
 
-
-<div style="display: flex;justify-content: center;align-items: center;"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="auto" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
+<h3>Languages & Frameworks:</h3>
+<p>
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-DD0031?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-DD0031?style=flat-square&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-DD0031?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask&logoColor=white" />
+   <img alt="Node.js" src="https://img.shields.io/badge/Node.js?style=flat-square&logo=node&logoColor=green" />
+  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-grey?style=flat-square&logo=selenium&logoColor=white" />
+   <img alt="React" src="https://img.shields.io/badge/React?style=flat-square&logo=react&logoColor=blue" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML5-1a73e8?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1a73e8?style=flat-square&logo=css3&logoColor=white" />
   
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-1a73e8?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Jquery" src="https://img.shields.io/badge/-Jquery-1a73e8?style=flat-square&logo=jquery&logoColor=white" />
+</p>
+
+<h3>Tools:</h3>
+
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-1a73e8?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-1a73e8?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-1a73e8?style=flat-square&logo=github-actions&logoColor=white" />
+</p>
+
 
