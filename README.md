@@ -23,6 +23,13 @@
   <img alt="Jquery" src="https://img.shields.io/badge/-Jquery-1a73e8?style=flat-square&logo=jquery&logoColor=white" />
 </p>
 
+<h3>Databases:</h3>
+
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-v8-brightgreen" />
+  <img alt="Postgres" src=https://img.shields.io/badge/postgres-v16-brightgreen" />
+</p>
+
 <h3>Tools:</h3>
 
 <p>
