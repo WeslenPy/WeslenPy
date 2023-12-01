@@ -13,7 +13,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-DD0031?style=flat-square&logo=javascript&logoColor=fff&color=F7DF1E" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask&logoColor=blue" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-grey?style=flat-square&logo=fastapi&logoColor=white&color=009688" />
-  <img alt="Node.js" src="https://img.shields.io/node/v/node.svg?style=flat-square&logo=nodedotjs&logoColor=green&label=Node.js&color=339933" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-grey?style=flat-square&logo=nodedotjs&logoColor=white&color=339933" />
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-grey?style=flat-square&logo=selenium&logoColor=white&color=43B02A" />
   <br>
    <img alt="React" src="https://img.shields.io/node/v/react.svg?&logo=react&logoColor=white&label=React&color=61DAFB" />
