@@ -11,10 +11,10 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-DD0031?style=flat-square&logo=php&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-DD0031?style=flat-square&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-DD0031?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask&logoColor=white" />
-   <img alt="Node.js" src="https://img.shields.io/npm/v/npm.svg?style=flat-square&logo=nodedotjs&logoColor=green&label=Node.js" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask&logoColor=blue" />
+   <img alt="Node.js" src="https://img.shields.io/node/v/node.svg?style=flat-square&logo=nodedotjs&logoColor=green&label=Node.js" />
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-grey?style=flat-square&logo=selenium&logoColor=white" />
-   <img alt="React" src="https://img.shields.io/badge/React?style=flat-square&logo=react&logoColor=blue" />
+   <img alt="React" src="https://img.shields.io/node/v/react.svg?&logo=react&logoColor=green&label=React" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-1a73e8?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1a73e8?style=flat-square&logo=css3&logoColor=white" />
   
