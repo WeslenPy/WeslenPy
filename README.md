@@ -27,10 +27,10 @@
 <h3>Databases:</h3>
 
 <p>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-v8-brightgreen" />
-  <img alt="Postgres" src=https://img.shields.io/badge/postgresql-v16-brightgreen" />
-  <img alt="Redis" src="https://img.shields.io/badge/redis-v7-brightgreen&color=000" />
-  <img alt="NoSQL" src="https://img.shields.io/badge/nosql-brightgreen" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-v8-brightgreen" />
+  <img alt="Postgres" src=https://img.shields.io/badge/PostgreSQL-v16-brightgreen" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-v7-brightgreen&color=000" />
+  <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-brightgreen" />
 </p>
 
 <h3>Tools:</h3>
