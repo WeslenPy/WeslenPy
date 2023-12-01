@@ -29,6 +29,7 @@
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-v8-brightgreen" />
   <img alt="Postgres" src=https://img.shields.io/badge/postgresql-v16-brightgreen" />
+  <img alt="Redis" src="https://img.shields.io/badge/redis-v7-brightgreen&color=000" />
   <img alt="NoSQL" src="https://img.shields.io/badge/nosql-brightgreen" />
 </p>
 
