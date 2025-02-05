@@ -22,6 +22,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1a73e8?style=flat-square&logo=css3&logoColor=white&color=1572B6" />
   
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-1a73e8?style=flat-square&logo=bootstrap&logoColor=white&color=7952B3" />
+    <br>
   <img alt="Jquery" src="https://img.shields.io/badge/-Jquery-1a73e8?style=flat-square&logo=jquery&logoColor=white&color=0769AD" />
   <img alt="Tailwindcss" src="https://img.shields.io/badge/v4.0.0-tailwindcss-blue" />
   
