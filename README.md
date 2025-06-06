@@ -58,6 +58,6 @@
 @numero_virtual_bot
 <br>
 
-<h3>Sites:</h3>
+<h3>Sites desenvolvidos:</h3>
 https://painel.numerosvirtuais.com/
 
