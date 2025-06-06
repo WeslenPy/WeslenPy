@@ -37,6 +37,8 @@
   <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-brightgreen" />
 </p>
 
+
+
 <h3>Tools:</h3>
 
 <p>
@@ -49,4 +51,13 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-1a73e8?style=flat-square&logo=github-actions&logoColor=white&color=2088FF" />
 </p>
 
+
+<h3>Bots desenvolvidos:</h3>
+@numeros_virtuais_bot
+@store24h_bot
+@numero_virtual_bot
+<br>
+
+<h3>Sites:</h3>
+https://painel.numerosvirtuais.com/
 
