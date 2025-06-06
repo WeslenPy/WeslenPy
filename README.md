@@ -52,12 +52,12 @@
 </p>
 
 
-<h3>Bots desenvolvidos:</h3>
+<h3>Bots development:</h3>
 <a href="https://t.me/numeros_virtuais_bot">@numeros_virtuais_bot</a><br>
 <a href="https://t.me/numero_virtual_bot">@numero_virtual_bot</a><br>
 <a href="https://t.me/store24h_bot">@store24h_bot</a><br>
 <br>
 
-<h3>Sites desenvolvidos:</h3>
+<h3>Websites development:</h3>
 https://painel.numerosvirtuais.com/
 
