@@ -1,10 +1,5 @@
 # Hi, I'm Weslen, a full stack software developer.
 
-<div style="display: inline_block">
-  <img height=200 width=440  align="center" src="https://my-stats-personal.vercel.app/api?username=weslenpy&show_icons=true&theme=radical&include_all_commits=true">
-  <img height=183 align="center" src="https://my-stats-personal.vercel.app/api/top-langs?username=weslenpy&layout=compact&theme=radical">
- 
-</div>
 
 <h3>Languages & Frameworks:</h3>
 <p>
