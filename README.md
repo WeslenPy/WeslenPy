@@ -53,9 +53,9 @@
 
 
 <h3>Bots desenvolvidos:</h3>
-@numeros_virtuais_bot
-@store24h_bot
-@numero_virtual_bot
+<a href=" https://t.me/numeros_virtuais_bot">@numeros_virtuais_bot</a><br>
+<a href=" https://t.me/numero_virtual_bot">@numero_virtual_bot</a><br>
+<a href=" https://t.me/store24h_bot">@store24h_bot</a><br>
 <br>
 
 <h3>Sites desenvolvidos:</h3>
