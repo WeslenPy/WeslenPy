@@ -35,6 +35,7 @@
   <img alt="Postgres" src=https://img.shields.io/badge/PostgreSQL-v16-brightgreen" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-v7-brightgreen&color=000" />
   <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-brightgreen" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-brightgreen" />
 </p>
 
 
