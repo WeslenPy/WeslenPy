@@ -58,4 +58,6 @@
 https://painel.numerosvirtuais.com/
 <br>
 https://painel.scautomacoes.com/
+<br>
+https://wa-connect.org
 
